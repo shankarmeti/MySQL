@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @shankarmeti
-- 👀 I’m interested in data analysic/visualization
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on development projects
-- 📫 How to reach me : shankarmeti220@gmail.com
+Tool : My SQL
+Key skills used :DDL, DML, DCL, Windows functions, Aggregate functions and joins.
 
 <!---
 shankarmeti/shankarmeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
