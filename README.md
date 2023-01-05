@@ -1,4 +1,6 @@
-Tool : My SQL
+Tool : My SQL Workbench
+
+
 Key skills used :DDL, DML, DCL, Windows functions, Aggregate functions and joins.
 
 <!---
